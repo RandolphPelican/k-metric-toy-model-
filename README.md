@@ -162,3 +162,11 @@ MIT
 J. Stabler
 Independent Researcher, Boca Raton FL
 GitHub: https://github.com/RandolphPelican
+
+**attention_gain.py** -- K shows an inverted-U response to attentional gain,
+peaking at mid-range attention and declining at very high gain even as raw MI
+saturates monotonically. This matches the well-known norepinephrine inverted-U
+curve empirically -- too little attention and K collapses, sweet spot around
+gain=0.5, too much and K declines as H_max grows faster than navigable MI.
+Maps directly to dopamine and acetylcholine modulation of task-axis amplitude
+in biological systems. MI misses the peak entirely.
