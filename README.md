@@ -170,3 +170,11 @@ curve empirically -- too little attention and K collapses, sweet spot around
 gain=0.5, too much and K declines as H_max grows faster than navigable MI.
 Maps directly to dopamine and acetylcholine modulation of task-axis amplitude
 in biological systems. MI misses the peak entirely.
+
+**comprehension_vs_repetition.py** -- Comprehension-based learning produces
+higher K across all probe axes vs repetition-based learning at matched accuracy.
+Both agents use identical node count. Comprehension achieves 1.18x greater K
+per active node -- elegance is geometric not structural. Repetition carves one
+deep groove. Comprehension builds a navigable relational neighborhood. Accuracy
+alone cannot distinguish them. K can. Novel prediction: expert geometries should
+show higher K than novice geometries matched on behavioral accuracy.
