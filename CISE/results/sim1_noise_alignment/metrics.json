@@ -1,0 +1,25 @@
+{
+  "sim_name": "sim1_noise_alignment",
+  "timestamp": "2026-03-06T19:38:25.060556",
+  "n_records": 2,
+  "records": [
+    {
+      "system": "A",
+      "MI_raw": 0.6576803094425827,
+      "MI_navigable": 0.683103009776881,
+      "FI": 20.000000000000007,
+      "K": 1.0,
+      "behavioral_accuracy": 0.9705,
+      "navigable_fraction": 0.986
+    },
+    {
+      "system": "B",
+      "MI_raw": 0.21458911325964064,
+      "MI_navigable": 0.6330343008836934,
+      "FI": 2.2222222222222223,
+      "K": 0.3695834445731459,
+      "behavioral_accuracy": 0.78,
+      "navigable_fraction": 0.7765
+    }
+  ]
+}
